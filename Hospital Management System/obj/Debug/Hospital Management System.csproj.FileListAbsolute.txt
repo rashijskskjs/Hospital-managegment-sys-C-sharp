@@ -1,0 +1,16 @@
+c:\users\hp\onedrive\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+c:\users\hp\onedrive\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+c:\users\hp\onedrive\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+c:\users\hp\onedrive\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+c:\users\hp\onedrive\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.Cache
+c:\users\hp\onedrive\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+c:\users\hp\onedrive\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+c:\users\hp\onedrive\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\bin\Debug\Guna.UI.dll
+c:\users\hp\onedrive\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.admin_login.resources
+c:\users\hp\onedrive\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.doctors.resources
+c:\users\hp\onedrive\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\bin\Debug\Bunifu_UI_v1.52.dll
+c:\users\hp\onedrive\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.patients.resources
+c:\users\hp\onedrive\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.medicine.resources
+c:\users\hp\onedrive\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\bin\Debug\HMSDatabase.mdf
+c:\users\hp\onedrive\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\bin\Debug\HMSDatabase_log.ldf
+c:\users\hp\onedrive\documents\visual studio 2012\Projects\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.csprojResolveAssemblyReference.cache
